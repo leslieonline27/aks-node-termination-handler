@@ -4,5 +4,5 @@ name: aks-node-termination-handler
 version: 1.1.6
 description: Gracefully handle Azure Virtual Machines shutdown within Kubernetes
 maintainers:
-- name: maksim-paskal  # Maksim Paskal
-  email: paskal.maksim@gmail.com
+- name: leslie-lintott
+  email: leslieonline1@outlook.com
