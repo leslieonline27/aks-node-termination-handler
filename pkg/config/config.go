@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/types"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/types"
 	"github.com/pkg/errors"
 	"gopkg.in/yaml.v3"
 	corev1 "k8s.io/api/core/v1"

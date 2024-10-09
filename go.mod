@@ -1,4 +1,4 @@
-module github.com/maksim-paskal/aks-node-termination-handler
+module github.com/leslieonline27/aks-node-termination-handler
 
 go 1.22.0
 

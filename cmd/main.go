@@ -21,8 +21,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/internal"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/config"
+	"github.com/leslieonline27/aks-node-termination-handler/internal"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/config"
 	logrushooksentry "github.com/maksim-paskal/logrus-hook-sentry"
 	log "github.com/sirupsen/logrus"
 )

@@ -16,8 +16,8 @@ import (
 	"strconv"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/config"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/template"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/config"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/template"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )

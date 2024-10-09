@@ -23,8 +23,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/template"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/webhook"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/template"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/webhook"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 )

@@ -18,10 +18,10 @@ import (
 	"net/http/pprof"
 	"time"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/alert"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/api"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/config"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/metrics"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/alert"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/api"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/config"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/metrics"
 	log "github.com/sirupsen/logrus"
 )
 

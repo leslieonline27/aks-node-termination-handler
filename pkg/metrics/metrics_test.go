@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/metrics"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/metrics"
 )
 
 var (

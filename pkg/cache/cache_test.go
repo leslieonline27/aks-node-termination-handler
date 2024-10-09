@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/cache"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/cache"
 )
 
 func TestCache(t *testing.T) {

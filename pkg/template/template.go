@@ -17,8 +17,8 @@ import (
 	"context"
 	"html/template"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/api"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/types"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/api"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/types"
 	"github.com/pkg/errors"
 )
 

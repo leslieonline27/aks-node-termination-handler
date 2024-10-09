@@ -19,10 +19,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/cache"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/metrics"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/types"
-	"github.com/maksim-paskal/aks-node-termination-handler/pkg/utils"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/cache"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/metrics"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/types"
+	"github.com/leslieonline27/aks-node-termination-handler/pkg/utils"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )
