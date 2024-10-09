@@ -1,5 +1,5 @@
 image: "ahgoo.azurecr.io/aks-node-termination-handler"
-imageVersion: "1.0"
+imageVersion: "1.1"
 imagePullPolicy: Always
 imagePullSecrets: []
 
